@@ -17,8 +17,7 @@ if (answers.userGuessedNumber === randomNumber) {
 }
 else {
     console.log("Sorry, you guessed wrong. The correct number was: " + randomNumber);
-}
-;
+};
 // console.log(randomNumber);
 // console.log(answers);
 //ESNext (updates target itself)
